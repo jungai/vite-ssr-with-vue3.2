@@ -1,0 +1,9 @@
+{
+	"name": "vite-with-vue3.2",
+	"version": "1.0.0",
+	"author": "jungai",
+	"license": "ISC",
+	"scripts": {
+		"install": "make pre-install"
+	}
+}
